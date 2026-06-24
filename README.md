@@ -142,37 +142,6 @@ AI Engineering
 
 ⸻
 
-📂 Repository Structure
-
-.
-├── foundations/
-│   ├── search/
-│   ├── bayesian_networks/
-│   ├── markov_models/
-│   └── reinforcement_learning/
-│
-├── machine_learning/
-│
-├── deep_learning/
-│
-├── genai/
-│   ├── prompt_engineering/
-│   ├── embeddings/
-│   ├── vector_databases/
-│   ├── rag/
-│   └── agents/
-│
-├── enterprise_ai/
-│   ├── peoplesoft_assistant/
-│   ├── finance_rag/
-│   └── intelligent_automation/
-│
-├── projects/
-│
-└── notes/
-
-⸻
-
 🤖 AI-Assisted Development
 
 This repository embraces modern software development practices.
