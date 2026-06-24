@@ -1,58 +1,73 @@
-🚀 From PeopleSoft to AI Engineering
+🚀 PeopleSoft to AI Engineering
 
-Welcome to my public AI learning journey.
+Welcome to my public learning journey.
 
-After spending 9+ years building and supporting enterprise applications using PeopleSoft, I’ve decided to invest deeply in Artificial Intelligence and AI Engineering.
+After spending 9+ years building and supporting enterprise applications using PeopleSoft, I decided to step outside my comfort zone and explore the rapidly evolving world of Artificial Intelligence.
 
-This repository serves as a living record of that journey—containing code, experiments, notes, projects, and lessons learned while transitioning from ERP development to AI Engineering.
+This repository documents that transition.
 
-⸻
-
-🎯 Mission
-
-My goal is to bridge the gap between:
-
-Enterprise Software Development ➜ AI Engineering
-
-Instead of learning AI only through tutorials, I’m building projects, implementing algorithms from scratch, studying foundational concepts, and documenting everything publicly.
+Here you’ll find my notes, experiments, projects, code implementations, and lessons learned as I move from Enterprise Software Development toward AI Engineering.
 
 ⸻
 
-👨‍💻 About Me
+👋 About Me
 
-* 9+ years of experience in PeopleSoft Development
-* Experience in Enterprise Applications and Business Process Automation
-* Exploring:
-    * Artificial Intelligence
-    * Machine Learning
-    * Large Language Models (LLMs)
-    * Retrieval-Augmented Generation (RAG)
-    * AI Agents
-    * Knowledge Engineering
-    * MLOps Fundamentals
+I’m a PeopleSoft Developer with 9+ years of experience working on enterprise applications, business process automation, integrations, and ERP solutions.
+
+My current focus areas include:
+
+* Artificial Intelligence
+* Machine Learning
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Knowledge Engineering
+* AI System Design
+
+I believe the future lies at the intersection of enterprise systems and intelligent software.
+
+This repository is where I’m exploring that future.
 
 ⸻
 
-🗺️ Learning Roadmap
+🎯 Why This Repository Exists
 
-Phase 1: AI Foundations
+Most people consume AI content.
+
+My goal is to learn by building.
+
+Instead of only watching tutorials or reading documentation, I want to:
+
+* Understand the fundamentals
+* Implement concepts through code
+* Build real-world projects
+* Document lessons learned
+* Share progress publicly
+
+This repository serves as my AI engineering journal.
+
+⸻
+
+🧭 Learning Roadmap
+
+AI Foundations
 
 * Search Algorithms
 * Knowledge Representation
 * Bayesian Networks
 * Markov Models
 * Constraint Satisfaction Problems
-* Reinforcement Learning Fundamentals
+* Reinforcement Learning
 
-Phase 2: Machine Learning
+Machine Learning
 
-* Linear Regression
+* Regression
 * Classification
 * Clustering
 * Feature Engineering
 * Model Evaluation
 
-Phase 3: Deep Learning
+Deep Learning
 
 * Neural Networks
 * CNNs
@@ -60,60 +75,70 @@ Phase 3: Deep Learning
 * Transformers
 * Attention Mechanisms
 
-Phase 4: Generative AI
+Generative AI
 
 * Prompt Engineering
 * Embeddings
 * Vector Databases
-* RAG Pipelines
-* Fine Tuning
-* AI Agents
+* RAG Systems
+* Fine-Tuning
+* Agentic Workflows
 
-Phase 5: AI Engineering
+AI Engineering
 
-* Production Deployments
 * Evaluation Frameworks
-* Agentic Systems
-* Observability
-* MLOps
+* Production Deployments
+* Monitoring & Observability
+* MLOps Fundamentals
+* Multi-Agent Systems
 
 ⸻
 
 📚 Learning Log
 
-Topic	Status	Notes
-Search Algorithms	🔄 In Progress	
-Bayesian Networks	🔄 In Progress	
-Markov Models	⏳ Planned	
-Machine Learning	⏳ Planned	
-Deep Learning	⏳ Planned	
-LLM Engineering	⏳ Planned	
+Topic	Status
+Python Refresher	✅ Completed
+Generative AI Fundamentals	✅ Completed
+Harvard CS50 AI	🔄 In Progress
+Search Algorithms	🔄 In Progress
+Bayesian Networks	🔄 In Progress
+Markov Models	⏳ Planned
+Machine Learning	⏳ Planned
+Deep Learning	⏳ Planned
+AI Agents	⏳ Planned
 
 ⸻
 
-🧠 Projects
+🛠 Projects
 
-AI Foundations
+Foundations
 
-* Search Algorithms Implementation
-* Bayesian Network Inference Engine
-* Constraint Satisfaction Solver
-* Markov Decision Process Simulator
+* Search Algorithms
+* Bayesian Network Inference
+* Markov Models
+* Constraint Satisfaction Problems
 
-GenAI & LLM Projects
+Generative AI
+
+* RAG Implementations
+* Embedding Experiments
+* Vector Database Evaluations
+* Prompt Engineering Studies
+
+Enterprise AI
 
 * PeopleSoft Knowledge Assistant
-* Finance Domain RAG Chatbot
-* ERP Support AI Agent
-* Intelligent Document Processing
-* AI-Powered Invoice Assistant
+* ERP Support Chatbot
+* Finance Domain RAG System
+* Intelligent Invoice Processing
+* AI-Powered Enterprise Search
 
-AI Engineering Projects
+AI Engineering
 
-* End-to-End RAG Pipeline
-* Evaluation Framework
-* Multi-Agent Workflow System
-* Production AI Monitoring Dashboard
+* Agentic Workflows
+* Evaluation Frameworks
+* Production AI Systems
+* End-to-End AI Applications
 
 ⸻
 
@@ -131,42 +156,72 @@ AI Engineering Projects
 ├── deep_learning/
 │
 ├── genai/
+│   ├── prompt_engineering/
 │   ├── embeddings/
 │   ├── vector_databases/
 │   ├── rag/
 │   └── agents/
 │
-├── projects/
-│   ├── peoplesoft_chatbot/
+├── enterprise_ai/
+│   ├── peoplesoft_assistant/
 │   ├── finance_rag/
-│   └── invoice_assistant/
+│   └── intelligent_automation/
+│
+├── projects/
 │
 └── notes/
 
 ⸻
 
-📝 Articles & Learning Notes
+🤖 AI-Assisted Development
+
+This repository embraces modern software development practices.
+
+Some code, documentation, and experiments may be created or accelerated using tools such as:
+
+* GitHub Copilot
+* ChatGPT
+* Claude
+* Other AI-assisted development tools
+
+However, the primary goal of every project is understanding.
+
+I strive to:
+
+* Understand the concepts being implemented
+* Explain design decisions
+* Modify and extend the code independently
+* Document key learnings and trade-offs
+
+This repository is not intended to showcase code generation.
+
+It is intended to showcase learning, experimentation, and growth.
+
+⸻
+
+✍️ Articles & Learning Notes
 
 I’m documenting this journey publicly through articles and project write-ups.
 
 Published
 
-* Why I’m Learning AI After 9 Years in ERP
+* From PeopleSoft to AI: Starting Over After Nearly a Decade in Enterprise Software
 
 Coming Soon
 
-* Bayesian Networks Changed How I Think About Enterprise Software
+* The AI Concept That Changed How I Think About Enterprise Software
+* Understanding Bayesian Networks Through Real-World Examples
 * Building My First RAG System
-* From PeopleSoft Developer to AI Engineer: Month 1
+* From ERP Developer to AI Engineer: Month 1
 * Lessons Learned From CS50 AI
 
 ⸻
 
-📈 Progress Tracker
+📈 Current Focus
 
-Current Focus:
+Current Learning Sprint:
 
-✅ Python Refresher
+✅ Python Refresh
 
 ✅ Generative AI Fundamentals
 
@@ -174,21 +229,25 @@ Current Focus:
 
 🔄 Bayesian Networks
 
-🔄 Building AI Portfolio Projects
+🔄 Building Portfolio Projects
+
+⏳ RAG Systems
+
+⏳ AI Agents
 
 ⸻
 
-🤝 Connect
+🤝 Let’s Connect
 
 If you’re:
 
 * Transitioning into AI
+* Building AI products
 * Working in Enterprise Software
-* Building GenAI applications
-* Exploring AI Engineering
+* Exploring GenAI and LLMs
 
-I’d love to connect and learn together.
+I’d love to connect, learn, and share ideas.
 
 ⸻
 
-“The best way to learn AI isn’t to consume content. It’s to build, experiment, fail, and share what you learn.”
+“The best way to learn AI is not by consuming more content. It’s by building, experimenting, documenting, and continuously improving.”
