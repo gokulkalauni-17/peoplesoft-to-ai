@@ -94,21 +94,6 @@ AI Engineering
 
 ⸻
 
-📚 Learning Log
-
-Topic	Status
-Python Refresher	✅ Completed
-Generative AI Fundamentals	✅ Completed
-Harvard CS50 AI	🔄 In Progress
-Search Algorithms	🔄 In Progress
-Bayesian Networks	🔄 In Progress
-Markov Models	⏳ Planned
-Machine Learning	⏳ Planned
-Deep Learning	⏳ Planned
-AI Agents	⏳ Planned
-
-⸻
-
 🛠 Projects
 
 Foundations
