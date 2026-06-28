@@ -25,9 +25,6 @@ Related Articles
 Medium:
 How Does a Bayesian Network Actually Reach a Decision?
 
-GitHub Series:
-Part 3 — Inference by Enumeration
-
 Next:
 Variable Elimination
 
